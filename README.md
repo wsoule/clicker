@@ -1,4 +1,4 @@
-# this project is for Jaden
+# this project is a React Cookie Clicker
 
 this is a cookie clicker game that I created using react, you can view the github pages [here](https://wsoule.github.io/clicker/)
 
